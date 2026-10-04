@@ -1,7 +1,7 @@
 /* ====== RIVIERA (Batumi) — demo config ====== */
 window.SITE = {
   name: "Riviera",
-  logo: "assets/logo.webp",          // <- ჩადე რივიერას ლოგო (Instagram/Facebook-იდან)
+  logo: "logo.webp",          // <- ჩადე რივიერას ლოგო (Instagram/Facebook-იდან)
   phone: "+995574555544",
   currency: "GEL",
 
