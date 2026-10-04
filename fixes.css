@@ -1,0 +1,3 @@
+/* ჩატვირთე style.css-ის შემდეგ */
+.sub-menu-container.active { max-height: 20000px; } /* გრძელი მენიუ აღარ მოიჭრება */
+.item-price-action .price { min-width: 70px; }
